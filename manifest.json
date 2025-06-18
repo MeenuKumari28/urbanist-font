@@ -1,0 +1,46 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "ECE1F8F0094467C25633454BD059207415716AEC1DFAF3FB1BCA8F5B2E139AC0",
+      "size": 1896
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "465E7B320730113FA3325965E7FEFC427BAF74282457D8281B1048E3BABD10F9",
+      "size": 1008
+    },
+    "custom.ftd": {
+      "name": "custom.ftd",
+      "checksum": "0E9DF2B62B8545FADB2FC90EB218FF114284A1236C7C4BC54E243378E7E3C780",
+      "size": 6204
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "05C84EF9294CFB4FC0258ADDC7DC6DCB89F746438ECA18C749DDB2CB11E01DF9",
+      "size": 2170
+    },
+    "static/Urbanist-100-900-italic-latin-ext.woff2": {
+      "name": "static/Urbanist-100-900-italic-latin-ext.woff2",
+      "checksum": "A4C7D8B709F9030912117B62999DA4D7FBCA81B7BDAEADE69F36D56245284592",
+      "size": 17272
+    },
+    "static/Urbanist-100-900-italic-latin.woff2": {
+      "name": "static/Urbanist-100-900-italic-latin.woff2",
+      "checksum": "163E60078A8AE1D21E91CCF9DD475D7E7BFF4B21D3FC919CDE800BB1DF9D3010",
+      "size": 29632
+    },
+    "static/Urbanist-100-900-normal-latin-ext.woff2": {
+      "name": "static/Urbanist-100-900-normal-latin-ext.woff2",
+      "checksum": "DB38A13F7E734E2DCE7B650EB3346FA93778AF0DBD6CC736AB98CDA0359C5D6F",
+      "size": 16548
+    },
+    "static/Urbanist-100-900-normal-latin.woff2": {
+      "name": "static/Urbanist-100-900-normal-latin.woff2",
+      "checksum": "7981EF90C246352C7C217081B8D9337B9C95E9D17AE126BF56B0D3753D1E5FFB",
+      "size": 27752
+    }
+  },
+  "zip_url": "https://codeload.github.com/meenukumari28/urbanist-font/zip/refs/heads/main",
+  "checksum": "181BDE1EB736E7C01E25F40920914383EEFA2AC944B45E0733DC9DECAB0BBBA1"
+}
